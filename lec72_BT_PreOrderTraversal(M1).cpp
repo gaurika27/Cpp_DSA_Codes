@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -17,7 +18,7 @@ void preOrderTrav(node*curr, vector<int> &preOrder){
 }
 
 struct node* newNode(int data){
-  struct nodee* node=(struct node* )malloc(sizeof(struct node));
+  struct node* node=(struct node* )malloc(sizeof(struct node));
   node->data=data;
   node->left=NULL;
   node->right=NULL;
