@@ -20,10 +20,6 @@ int main(){
   root->right=new Node(3);
 
   root->left->left=new Node(4);
-
-  //Traversal:Breadth First Search(BFS) and Depth First Search(DFS)
-  //DFS: Inorder Traversal(Left->Root->Right), Pre order Traversal(Root->Left->Right) Post order traversal(LEft->Right->Root)
-  
   return 0;
 
 }
