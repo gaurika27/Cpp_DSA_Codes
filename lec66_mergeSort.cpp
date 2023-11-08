@@ -1,5 +1,5 @@
 //Merge Sort:Divide and merge
-//Why merge sort?: Insertion, Selection and Bubble sort have time complexity of O(n^2) while this has the time complexity of 
+//Why merge sort?: Insertion, Selection and Bubble sort have time complexity of O(n^2) while this has the time complexity of O(nlogn)
 #include <iostream>
 #include <vector>
 using namespace std;

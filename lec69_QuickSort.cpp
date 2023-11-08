@@ -1,4 +1,4 @@
-//Quick Sort: It is better than the merge sort because ot has a space complexity of O(1). Unlike, mergee sort whicht he theie coplexity of )(N)
+//Quick Sort: It is better than the merge sort because ot has a space complexity of O(1). Unlike, mergee sort which has the space complexity of O(N)
 //Time Complexity: NlogN and Space Complexity:O(1)
 #include <iostream>
 #include <vector>
