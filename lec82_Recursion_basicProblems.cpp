@@ -2,7 +2,9 @@
 #include<vector>
 using namespace std;
 void name(i,n){
-  if(i>n) return;
+  if(i>n) return; //base case
+  cout<<"Gaurika";
+  name(i+1,n);
 }
 int main(){
   int n;
