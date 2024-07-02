@@ -1,5 +1,6 @@
 //DP:Memoization technique instead of recursion.
 //Memoization:Top Down
+//Here we tend to store the value ofthe sub problem in some map/table
 //Fibonacci series using DP(memoization)
 //TC:O(N)
 //SC:O(N)+O(N)
