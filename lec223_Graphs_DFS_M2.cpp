@@ -19,5 +19,6 @@ class Solution{
       int start=0;
       vector<int> ls;
       dfs(start, adj, vis, ls);
+      return ls;
     }
 };
