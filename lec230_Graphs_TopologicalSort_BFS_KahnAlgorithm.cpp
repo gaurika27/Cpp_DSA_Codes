@@ -6,7 +6,7 @@ Steps for Kahn's Algorithm
        (I) make the front most element of queue as 'front'
        (II) pop out the 'front', i.e, q.pop()
        (III) ans.push_back(front)
-       (IV) check front's neighbours in adj list, makr them visited and reduce their indegree by 1
+       (IV) check front's neighbours in adj list, mark them visited and reduce their indegree by 1
        (V) if any neighbour's indegree become 0; start from (II) by adding that neighbour to the queue and doing the step (III) and its sub steps.
 4) Return ans        
 */
