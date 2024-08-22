@@ -65,7 +65,7 @@ int main(){
   h.insert(45);
   h.print();
   h.deletefromHeap();
-  h.print();
+  h.print();  
   
   return 0;
 }
